@@ -1,1 +1,1 @@
-proyecto aprendiendo django con codigo facilito.
+proyecto aprendiendo django con codigo facilito voy en capitulo 13
